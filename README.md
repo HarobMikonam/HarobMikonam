@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Matthew Faghiri</h1>
-<h3 align="center">A passionate frontend developer from Cyprus Studying at Frederick University</h3>
+<h3 align="center">A passionate developer from Cyprus Studying at Frederick University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harobmikonam&label=Profile%20views&color=0e75b6&style=flat" alt="harobmikonam" /> </p>
 
