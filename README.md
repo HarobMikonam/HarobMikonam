@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I’m a university student with a focus on full-stack development, currently working on expanding my knowledge in AI and mobile development.</h3>
+<h3 align="center">I’m a software engineer with a focus on back-end development, currently working on expanding my knowledge in AI and mobile development.</h3>
 
 ###
 
